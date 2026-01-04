@@ -36,7 +36,7 @@ This template is ideal for:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/react-router-chakra-template.git
+git clone https://github.com/aviorkahalani/react-router-chakra-template.git
 cd react-router-chakra-template
 npm install
 npm run dev
